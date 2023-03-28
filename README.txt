@@ -1,3 +1,12 @@
+
+## Howto Run
+
+- Download and install intellij IDE here: https://www.jetbrains.com/idea/
+- Clone the this git repo 
+  >> 
+
+
+
 All GraphDB programming examples are provided as a Maven project.
 
 Since GraphDB is not available from Maven Central (the public Maven repository),

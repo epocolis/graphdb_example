@@ -3,7 +3,10 @@
 
 - Download and install intellij IDE here: https://www.jetbrains.com/idea/
 - Clone this git repo 
+  ```
   >> git clone git@github.com:epocolis/graphdb_example.git
+  ```
+  
 - Open the project using Intellij 
 - You will also have to install maven see: https://maven.apache.org/install.html
 
